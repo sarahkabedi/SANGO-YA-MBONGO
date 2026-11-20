@@ -1,0 +1,17 @@
+# Fichiers sensibles
+.env
+.env.*
+!.env.example
+
+# Dépendances
+node_modules/
+
+# Journaux
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.tmp
