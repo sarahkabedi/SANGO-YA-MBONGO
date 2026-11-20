@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-labelledby="title">
+  <title id="title">Paiement sans contact chez un commerçant</title>
+  <rect width="80" height="80" rx="20" fill="#fff7ed"/>
+  <path d="M18 29h44v32H18z" fill="#fff" stroke="#1D4ED8" stroke-linejoin="round" stroke-width="2.5"/>
+  <path d="M15 29 21 17h38l6 12" fill="#F97316" stroke="#1D4ED8" stroke-linejoin="round" stroke-width="2.5"/>
+  <path d="M29 61V43h14v18m9-23h4" fill="none" stroke="#1D4ED8" stroke-linecap="round" stroke-width="2.5"/>
+  <path d="M49 27c4-5 11-5 15 0m-12 4c2-2 5-2 7 0" fill="none" stroke="#14532d" stroke-linecap="round" stroke-width="2.5"/>
+</svg>

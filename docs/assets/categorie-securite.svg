@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-labelledby="title">
+  <title id="title">Protection des paiements numériques</title>
+  <rect width="80" height="80" rx="20" fill="#F0FDF4"/>
+  <path d="M40 13 61 21v16c0 14-9 23-21 30-12-7-21-16-21-30V21z" fill="#fff" stroke="#14532D" stroke-linejoin="round" stroke-width="3"/>
+  <path d="m30 40 7 7 14-16" fill="none" stroke="#1D4ED8" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <circle cx="58" cy="20" r="5" fill="#F97316"/>
+</svg>

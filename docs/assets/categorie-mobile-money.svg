@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-labelledby="title">
+  <title id="title">Téléphone et portefeuille mobile</title>
+  <rect width="80" height="80" rx="20" fill="#eff6ff"/>
+  <rect x="19" y="12" width="32" height="56" rx="8" fill="#14532d"/>
+  <rect x="23" y="18" width="24" height="42" rx="4" fill="#fff"/>
+  <path d="M30 14h10m-5 49h.1" stroke="#F97316" stroke-linecap="round" stroke-width="2"/>
+  <rect x="39" y="34" width="29" height="22" rx="5" fill="#1D4ED8" stroke="#fff" stroke-width="2"/>
+  <path d="M39 41h29" stroke="#F97316" stroke-width="3"/>
+  <circle cx="57" cy="48" r="2" fill="#fff"/>
+</svg>
