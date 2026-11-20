@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" role="img" aria-labelledby="title desc">
+  <title id="title">Paiements numériques connectés</title>
+  <desc id="desc">Illustration vectorielle d'un téléphone, d'un portefeuille et de flux de paiement.</desc>
+  <ellipse cx="240" cy="190" rx="206" ry="116" fill="none" stroke="#bfd1f3" stroke-width="2" transform="rotate(-18 240 190)"/>
+  <ellipse cx="240" cy="190" rx="170" ry="152" fill="none" stroke="#dce7fa" stroke-width="2" transform="rotate(32 240 190)"/>
+  <circle cx="240" cy="190" r="112" fill="#eff6ff"/>
+  <circle cx="240" cy="190" r="88" fill="#fff" stroke="#c8d8f4" stroke-width="2"/>
+  <rect x="194" y="106" width="92" height="166" rx="18" fill="#14532D"/>
+  <rect x="202" y="120" width="76" height="132" rx="10" fill="#F0FDF4"/>
+  <rect x="220" y="112" width="40" height="4" rx="2" fill="#F97316"/>
+  <rect x="213" y="143" width="54" height="34" rx="8" fill="#1D4ED8"/>
+  <path d="M223 160h33m-16-9v18" stroke="#f0fdf4" stroke-linecap="round" stroke-width="3"/>
+  <path d="M218 194h46M218 207h32M218 220h39" stroke="#b8c9ec" stroke-linecap="round" stroke-width="4"/>
+  <circle cx="240" cy="262" r="3" fill="#F97316"/>
+  <g fill="#fff" stroke="#dfe7f3" stroke-width="2">
+    <rect x="61" y="87" width="112" height="54" rx="12"/>
+    <rect x="316" y="67" width="105" height="54" rx="12"/>
+    <rect x="329" y="260" width="104" height="54" rx="12"/>
+    <rect x="42" y="255" width="112" height="54" rx="12"/>
+  </g>
+  <g fill="none" stroke="#1D4ED8" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+    <path d="M88 115h54m-8-9 9 9-9 9"/>
+    <path d="M343 94h49m-8-9 9 9-9 9"/>
+    <path d="M355 287h47m-8-9 9 9-9 9"/>
+    <path d="M70 282h52m-8-9 9 9-9 9"/>
+  </g>
+  <circle cx="74" cy="62" r="7" fill="#F97316"/>
+  <path d="m407 177 5 10 11 2-8 8 2 11-10-5-10 5 2-11-8-8 11-2z" fill="#F97316"/>
+  <circle cx="174" cy="321" r="5" fill="#1D4ED8"/>
+  <circle cx="308" cy="48" r="5" fill="#1D4ED8"/>
+</svg>

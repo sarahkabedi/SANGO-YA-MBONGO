@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "collect:news": "node scripts/collect-news.js",
+    "collect:world-bank": "node scripts/collect-world-bank.js",
+    "import:arptc": "node scripts/import-arptc-report.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "fast-xml-parser": "^5.12.1",
+    "pg": "^8.23.1"
+  }
+}

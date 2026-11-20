@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Symbole SANGO YA MBONGO</title>
+  <rect width="64" height="64" rx="18" fill="#14532D"/>
+  <path d="M17 44V23a4 4 0 0 1 4-4h14l12 12v13a4 4 0 0 1-4 4H21a4 4 0 0 1-4-4Z" fill="none" stroke="#F0FDF4" stroke-linejoin="round" stroke-width="2.5"/>
+  <path d="M35 19v12h12M24 39h5m5 0h8M24 33h5" fill="none" stroke="#F97316" stroke-linecap="round" stroke-width="3"/>
+  <circle cx="45" cy="43" r="7" fill="#1D4ED8" stroke="#F97316" stroke-width="2"/>
+  <path d="M45 39.5v7m2-5.5c0-1-1-1.5-2-1.5s-2 .5-2 1.5 1 1.5 2 1.5 2 .5 2 1.5-1 1.5-2 1.5-2-.5-2-1.5" fill="none" stroke="#F0FDF4" stroke-linecap="round" stroke-width="1.2"/>
+</svg>

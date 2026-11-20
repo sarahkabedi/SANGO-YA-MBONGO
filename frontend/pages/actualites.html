@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Recherchez et filtrez les actualités publiées sur le Mobile Money et les paiements numériques en RDC.">
+  <meta name="theme-color" content="#14532d">
+  <title>Actualités — SANGO YA MBONGO</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <script src="/js/script.js" defer></script>
+</head>
+<body data-page="news">
+  <a class="skip-link" href="#contenu">Aller au contenu</a>
+  <header class="site-header"><div class="container header-inner">
+    <a class="brand" href="/" aria-label="SANGO YA MBONGO, accueil"><img class="brand-mark" src="/assets/logo-sango.svg" alt=""><span class="brand-copy"><strong>SANGO YA MBONGO</strong><small>Veille sur les paiements numériques</small></span></a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="navigation">Menu</button>
+    <nav class="main-nav" id="navigation" aria-label="Navigation principale"><a href="/">Accueil</a><a class="active" href="/pages/actualites.html" aria-current="page">Actualités</a><a href="/pages/tableau-de-bord.html">Tableau de bord</a></nav>
+  </div></header>
+  <main id="contenu">
+    <section class="page-hero"><div class="container"><p class="eyebrow">VEILLE ÉDITORIALE</p><h1>Actualités des paiements numériques</h1><p>Recherchez les publications validées et explorez les évolutions du Mobile Money en RDC.</p><div class="breadcrumbs"><a href="/">Accueil</a><span aria-hidden="true">/</span><span>Actualités</span></div></div></section>
+    <section class="section news-page-section"><div class="container">
+      <form class="filter-panel" id="news-filters">
+        <div class="filter-search"><label for="filter-query">Mot-clé</label><div class="input-with-icon"><span aria-hidden="true">⌕</span><input id="filter-query" name="q" type="search" maxlength="200" placeholder="Ex. mobile money"></div></div>
+        <div><label for="filter-category">Catégorie</label><select id="filter-category" name="category"><option value="">Toutes les catégories</option></select></div>
+        <div><label for="filter-source">Source</label><select id="filter-source" name="source"><option value="">Toutes les sources</option></select></div>
+        <div><label for="filter-from">Du</label><input id="filter-from" name="from" type="date"></div>
+        <div><label for="filter-to">Au</label><input id="filter-to" name="to" type="date"></div>
+        <div class="filter-actions"><button class="button button-primary" type="submit">Rechercher</button><button class="button button-quiet" id="reset-filters" type="button">Effacer</button></div>
+      </form>
+      <div class="results-toolbar"><p id="results-count" aria-live="polite">Chargement…</p><label class="page-size">Résultats par page <select id="page-size"><option value="10">10</option><option value="20" selected>20</option><option value="50">50</option></select></label></div>
+      <div id="news-results" class="article-grid news-results" aria-live="polite"><div class="state-card loading-state"><span class="spinner" aria-hidden="true"></span><p>Chargement des actualités…</p></div></div>
+      <nav class="pagination" id="pagination" aria-label="Pagination des actualités" hidden><button class="button button-secondary" id="previous-page" type="button">← Précédent</button><span id="page-label"></span><button class="button button-secondary" id="next-page" type="button">Suivant →</button></nav>
+    </div></section>
+  </main>
+  <footer class="site-footer"><div class="container footer-bottom"><a class="brand brand-light" href="/"><img class="brand-mark" src="/assets/logo-sango.svg" alt=""><span class="brand-copy"><strong>SANGO YA MBONGO</strong><small>Comprendre aujourd'hui les paiements de demain.</small></span></a><span>© <span data-current-year></span> SANGO YA MBONGO</span></div></footer>
+</body>
+</html>
